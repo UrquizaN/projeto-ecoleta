@@ -1,0 +1,95 @@
+#page-home {
+    height: 100vh;
+    width: 100vw;
+    background: url('../assets/home-background.svg') no-repeat;
+    background-position: 35vw bottom;
+}
+
+#page-home .content {
+    width: 90%;
+    height: 100%;
+    max-width: 1100px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+#page-home header {
+    width: 100%;
+    margin-top: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#page-home header a {
+    display: flex;
+    color: var(--title-color);
+    font-weight: 700;
+}
+
+#page-home header a span {
+    display: flex;
+    margin-right: 16px;
+    background: url('/assets/log-in.svg') no-repeat;
+    width: 25px;
+    height: 20px;
+}
+
+#page-home main {
+    max-width: 560px;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#page-home main h1 {
+    font-size: 54px;
+}
+
+#page-home main p {
+    font-size: 24px;
+    line-height: 38px;
+    margin-top: 24px;
+}
+
+#page-home main a {
+    width: 100%;
+    max-width: 350px;
+    height: 72px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+    background-color: var(--primary-color);
+    transition: 400ms;
+}
+
+#page-home main a:hover {
+    background-color: #2FB86E;
+}
+
+#page-home main a span {
+    width: 72px;
+    height: 72px;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.08);
+}
+
+#page-home main a span::after {
+    content: "";
+    width: 20px;
+    height: 20px;
+    background-image: url('../assets/search.svg');
+}
+
+#page-home main a strong {
+    flex: 1;
+    text-align: center;
+    color: white;
+}
