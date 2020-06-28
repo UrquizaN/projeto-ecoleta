@@ -8,6 +8,7 @@
 - [x] HTML
 - [x] CSS
 - [x] Javascript
+- [x] NodeJS
 - [x] Nunjucks
 - [x] Express
 - [x] SQLite3
