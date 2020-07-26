@@ -7,8 +7,7 @@
  <a href="#telas">Telas</a> •
  <a href="#funcionalidades">Funcionalidades</a> • 
  <a href="#tecnologias-utilizadas">Tecnologias utilizadas</a> • 
- <a href="#instalação">Instalação</a> 
-
+ <a href="#instalação">Instalação</a>
 </p>
 
 ## Telas
@@ -64,3 +63,9 @@ $ yarn start
 ```
 
 <p>Projeto <strong>Ecoleta</strong> desenvolvido durante a Next Level Week #1 da <a  href="https://rocketseat.com.br">Rocketseat</a>. Ministrado por <a href="https://github.com/maykbrito"> Myke Brito </a></p>
+
+
+
+<h3 align="center">
+💻 Desenvolvido por: Urquiza Nóbrega
+</h3>
