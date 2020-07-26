@@ -7,7 +7,7 @@
  <a href="#telas">Telas</a> •
  <a href="#funcionalidades">Funcionalidades</a> • 
  <a href="#tecnologias-utilizadas">Tecnologias utilizadas</a> • 
- <a href="#instalação">Instalação</a> • 
+ <a href="#instalação">Instalação</a> 
 
 </p>
 
@@ -48,7 +48,7 @@ Você precisa ter instalado em sua máquina as seguintes ferramentas:
 $ git clone <https://github.com/UrquizaN/projeto-ecoleta>
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd projeto-eecoleta
+$ cd projeto-ecoleta
 
 # Instale as dependências
 $ npm install
