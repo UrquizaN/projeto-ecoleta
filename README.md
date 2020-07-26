@@ -2,15 +2,14 @@
 <h1 align="center">Ecoleta</h1>
 <p align="center">Tornando o mundo melhor colaborando com a coleta de resíduos</p>
 
-Tabela de conteúdos
-=================
-<!--ts-->
-   * [Telas](#telas)
-   * [Funcionalidades](#funcionalidades)
-   * [Tecnologias utilizadas](#tecnologias-utilizadas)
-   * [Instalação](#instalação)
-   * [Status do projeto](#status-do-projeto)
-<!--te-->
+ <h5 align="center"> Projeto Ecoleta finalizado 🚀 </h5>
+<p align="center">
+ <a href="#telas">Telas</a> •
+ <a href="#funcionalidades">Funcionalidades</a> • 
+ <a href="#tecnologias-utilizadas">Tecnologias utilizadas</a> • 
+ <a href="#instalação">Instalação</a> • 
+
+</p>
 
 ## Telas
 <img src="/src/assets/screens.svg" />
@@ -63,8 +62,5 @@ $ yarn start
 
 # O servidor inciará na porta:3000 - acesse <http://localhost:3000>
 ```
-
-## Status do projeto
- Projeto Ecoleta finalizado 🚀
 
 <p>Projeto <strong>Ecoleta</strong> desenvolvido durante a Next Level Week #1 da <a  href="https://rocketseat.com.br">Rocketseat</a>. Ministrado por <a href="https://github.com/maykbrito"> Myke Brito </a></p>
