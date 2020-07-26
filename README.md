@@ -1,7 +1,6 @@
 <img src="/src/assets/banner.svg" />
 
 <p align="center" >
-<img align="center" src="/assets/banner.svg" />
 <a href="https://www.linkedin.com/in/urquiza-n%C3%B3brega-b999a1105/"><img src="https://img.shields.io/badge/LinkedIn-Urquiza%20N%C3%B3brega-blue"></a>
 </p>
 
